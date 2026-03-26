@@ -36,7 +36,7 @@ Sahil's founder stock from 2011 almost certainly qualifies. On a future exit:
 - **Potential tax savings: up to $2.38M–$3.57M** ($10M–$15M exclusion at 23.8% combined federal capital gains + NIIT rate, depending on OBBBA applicability)
 - His stock has been held for 15 years -- well past the 5-year minimum
 - Gumroad appears to meet the qualified trade or business and active business requirements
-- The $50M gross assets test needs verification but was likely met at issuance
+- The $50M/$75M gross assets test needs verification (threshold raised to $75M under OBBBA) but was likely met at issuance
 
 **Converting to S-Corp would permanently and irrevocably destroy QSBS eligibility for all shareholders.** This is the single strongest argument for maintaining C-Corp status. Gumroad should never convert.
 

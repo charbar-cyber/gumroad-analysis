@@ -160,7 +160,7 @@ Here is why:
 
 4. **The dollar value at stake.** $2.38M–$3.57M for Sahil alone (depending on OBBBA applicability). Potentially millions more across all qualifying shareholders.
 
-No reasonable S-Corp tax savings could ever justify destroying $2.38M+ in QSBS benefits.
+No reasonable S-Corp tax savings could ever justify destroying $2.38M–$3.57M+ in QSBS benefits.
 
 ---
 
