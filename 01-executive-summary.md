@@ -33,7 +33,7 @@ Section 1202 of the Internal Revenue Code -- Qualified Small Business Stock -- i
 
 Sahil's founder stock from 2011 almost certainly qualifies. On a future exit:
 
-- **Potential tax savings: up to $2.38M** ($10M exclusion at 23.8% combined federal capital gains + NIIT rate)
+- **Potential tax savings: up to $2.38M–$3.57M** ($10M–$15M exclusion at 23.8% combined federal capital gains + NIIT rate, depending on OBBBA applicability)
 - His stock has been held for 15 years -- well past the 5-year minimum
 - Gumroad appears to meet the qualified trade or business and active business requirements
 - The $50M gross assets test needs verification but was likely met at issuance
@@ -58,7 +58,7 @@ This is time-sensitive. Communication and verification should happen immediately
 
 ### Contractor Classification Risk
 
-Gumroad operates with approximately 25 "independent contractors" working 20-35 hours per week. The IRS and state agencies have been increasingly aggressive about reclassification of workers who exhibit employee-like characteristics.
+Gumroad operates with approximately 14 international contractors working 20-35 hours per week (reduced from ~32 in early 2025). The IRS and state agencies have been increasingly aggressive about reclassification of workers who exhibit employee-like characteristics.
 
 Key risk factors: regular hours, ongoing relationships, work integrated into core business operations, and potential economic dependence on Gumroad. Misclassification can result in back taxes, penalties, and interest for unpaid employment taxes going back multiple years.
 

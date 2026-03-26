@@ -17,18 +17,30 @@ The key terms:
 | Term | Detail |
 |------|--------|
 | **Exclusion percentage** | 100% for stock acquired after September 27, 2010 |
-| **Per-shareholder limit** | Greater of $10M or 10x the shareholder's adjusted basis in the stock |
+| **Per-shareholder limit** | Greater of $10M or 10x basis (pre-OBBBA); $15M or 15x basis (post-OBBBA, July 2025) |
 | **Minimum holding period** | 5 years |
 | **Eligible entity** | Domestic C-Corporation |
-| **Gross assets test** | Corporation had no more than $50M in gross assets at time of stock issuance (and at all times before) |
+| **Gross assets test** | Corporation had no more than $50M in gross assets at issuance (pre-OBBBA); $75M (post-OBBBA) |
 | **Active business test** | At least 80% of assets used in active conduct of a qualified trade or business |
 | **Qualified trade or business** | Excludes certain service businesses (health, law, engineering, finance, etc.), but technology/software is fully eligible |
 
+### OBBBA Changes (Signed July 4, 2025)
+
+The One Big Beautiful Bill Act significantly enhanced QSBS benefits:
+
+| Parameter | Pre-OBBBA | Post-OBBBA |
+|-----------|-----------|------------|
+| Exclusion cap | $10M or 10x basis | **$15M or 15x basis** |
+| Gross assets threshold | $50M | **$75M** |
+| Holding period (100%) | 5+ years | 5+ years (with new tiered option: 50% at 3yr, 75% at 4yr) |
+
+These changes apply to qualifying stock and represent a major windfall for Gumroad shareholders.
+
 The math on maximum benefit:
 
-- $10M in excluded gains
+- $10M–$15M in excluded gains (depending on OBBBA applicability)
 - At 20% federal long-term capital gains rate + 3.8% NIIT = 23.8%
-- **Maximum tax savings: $2,380,000 per qualifying shareholder**
+- **Maximum tax savings: $2,380,000–$3,570,000 per qualifying shareholder**
 
 ---
 
@@ -50,7 +62,7 @@ QSBS must be acquired at original issuance -- meaning directly from the corporat
 
 Secondary purchases (e.g., if someone bought shares from an existing investor) would not qualify.
 
-### 3. Gross Assets Test ($50M)
+### 3. Gross Assets Test ($50M/$75M)
 
 **Status: NEEDS VERIFICATION -- but likely PASS at issuance**
 
@@ -122,11 +134,11 @@ Sahil's position is the clearest and most valuable QSBS case:
 
 Assume Sahil's adjusted basis in his founder stock is minimal (likely the par value of the shares, perhaps a few thousand dollars at most). In a future exit:
 
-| Scenario | Gain | QSBS Exclusion | Tax Saved |
-|----------|------|-----------------|-----------|
-| Exit at $100M, Sahil's share = $50M | $50M | $10M | **$2,380,000** |
-| Exit at $200M, Sahil's share = $100M | $100M | $10M | **$2,380,000** |
-| Exit at $50M, Sahil's share = $25M | $25M | $10M | **$2,380,000** |
+| Scenario | Gain | QSBS Exclusion (Pre-OBBBA) | Tax Saved (Pre-OBBBA) | QSBS Exclusion (Post-OBBBA) | Tax Saved (Post-OBBBA) |
+|----------|------|------|------|------|------|
+| Exit at $100M, Sahil's share = $50M | $50M | $10M | **$2,380,000** | $15M | **$3,570,000** |
+| Exit at $200M, Sahil's share = $100M | $100M | $10M | **$2,380,000** | $15M | **$3,570,000** |
+| Exit at $50M, Sahil's share = $25M | $25M | $10M | **$2,380,000** | $15M | **$3,570,000** |
 
 In every realistic exit scenario, the $10M QSBS exclusion saves Sahil **$2.38 million in federal taxes**.
 
@@ -146,7 +158,7 @@ Here is why:
 
 3. **The damage is permanent.** Even if Gumroad later revoked its S-Corp election and returned to C-Corp status, the QSBS clock would have to restart from zero. For Sahil, that means waiting another 5 years -- and losing the benefit of 15 years of holding.
 
-4. **The dollar value at stake.** $2.38M for Sahil alone. Potentially millions more across all qualifying shareholders.
+4. **The dollar value at stake.** $2.38M–$3.57M for Sahil alone (depending on OBBBA applicability). Potentially millions more across all qualifying shareholders.
 
 No reasonable S-Corp tax savings could ever justify destroying $2.38M+ in QSBS benefits.
 
@@ -154,7 +166,7 @@ No reasonable S-Corp tax savings could ever justify destroying $2.38M+ in QSBS b
 
 ## Immediate Action Items
 
-1. **Verify the gross assets test.** Obtain Gumroad's balance sheets from the dates of each stock issuance and confirm that aggregate adjusted basis of assets did not exceed $50M.
+1. **Verify the gross assets test.** Obtain Gumroad's balance sheets from the dates of each stock issuance and confirm that aggregate adjusted basis of assets did not exceed $50M (pre-OBBBA issuances) or $75M (post-OBBBA issuances).
 
 2. **Analyze Crowd SAFE terms.** Determine the correct QSBS treatment for SAFE holders -- specifically, when the holding period begins and what triggers conversion.
 

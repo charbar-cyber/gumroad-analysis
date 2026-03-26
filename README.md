@@ -26,7 +26,7 @@
 
 ## About This Analysis
 
-Gumroad is one of the most interesting companies in tech from a tax and corporate structure perspective. A Delaware C-Corp with 7,387 crowdfunding investors, no full-time employees, a founder who works at the IRS, and a business generating $24M in annual revenue with margins most companies would kill for.
+Gumroad is one of the most interesting companies in tech from a tax and corporate structure perspective. A Delaware C-Corp with 7,387 crowdfunding investors, no full-time employees, a founder who works at the IRS, and a business generating $17.8M in annual revenue (2025) with margins most companies would kill for.
 
 The conventional wisdom would say "convert to an S-Corp." That advice, applied here, would be catastrophic. This analysis explains why -- and what to do instead.
 
